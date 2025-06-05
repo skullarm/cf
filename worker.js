@@ -1,1 +1,1 @@
-class w{}
+class w{async f(r){if(r.headers.get.'U')}}
